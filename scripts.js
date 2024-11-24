@@ -150,14 +150,14 @@ const movieData = {
       poster: "images/Paris is Burning.png"
     },
     movie16: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Janji Joni",
+      year: "2005",
+      genre: "Drama Comedy",
+      synopsis: "A film delivery man promises a beautiful young woman to deliver a film reel on time to a movie theater. But the the whole city seems to conspire against him.",
+      director: "Joko Anwar",
+      starring: "Nicholas Saputra, Mariana Renata, Rachel Maryam Sayidina",
+      watch: "Netflix, Vidio.com",
+      poster: "images/Janji Joni.jpg"
     },
     movie17: {
       title: "5 cm",
@@ -166,38 +166,38 @@ const movieData = {
       synopsis: "Genta, Arial, Zafran, Riani, and Ian felt \"tired\" of their friendship and decided to separate, not communicating with each other for three months. For three months they meet again and celebrate their meeting with a journey full of dreams and challenges. A journey of the heart to fly the red and white saka on the highest peak of Java on August 17th.",
       director: "Rizal Mantovani",
       starring: "Herjunot Ali,  Raline Shah, Fedi Nuril",
-      watch: "Netflix, Vidio",
+      watch: "Netflix, Vidio.com",
       poster: "images/5 cm.png"
     },
     movie18: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "3 hari untuk selamanya",
+      year: "2007",
+      genre: "Drama Comedy",
+      synopsis: "Ambar and her cousin Yusuf get drunk, miss a flight, and decide to drive to the family wedding they are in danger of missing. They encounter bizarre people along the way while avoiding the sexual tension growing between them.",
+      director: "Riri Riza",
+      starring: "Inong Ayu, Bowie Budianto, Chichi Kadijono",
+      watch: "Netflix, Vidio.com",
+      poster: "images/3 Hari Untuk Selamanya.jpg"
     },
     movie19: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Eiffel I'm in Love",
+      year: "2003",
+      genre: "Romance Comedy",
+      synopsis: "A teenage girl who led a perfect life. Her life completely changes when her parents good friend and his son came from France to stay with them.",
+      director: "Nasri Cheppy",
+      starring: "Shandy AuliaSamuel RizalVena Annisa",
+      watch: "Netflix, Vidio.com",
+      poster: "images/Eiffel_I'm_in_Love.jpg"
     },
     movie20: {
       title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      year: "2005",
+      genre: "Romance Comedy",
+      synopsis: "A rich teenager who wants to study abroad meets an attractive student who can offer valuable opinions - and maybe more.",
+      director: "Sunil Soraya",
+      starring: "Shandy Aulia, Samuel Rizal, Dimas Beck",
+      watch: "Netflix, Vidio.com",
+      poster: "images/Apa Artinya Cinta.jpg"
     },
     movie21: {
       title: "Pirates of the Caribbean : Dead Man's Chest",
@@ -320,34 +320,34 @@ const movieData = {
       poster: "images/The Look of Silence.png"
     },
     movie33: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "David Bryne's American Utopia",
+      year: "2020",
+      genre: "Drama Musical",
+      synopsis: "Spike Lee documents the former Talking Heads frontman's brilliant, timely 2019 Broadway show, based on his recent album and tour of the same name.",
+      director: "Spike Lee",
+      starring: "David Byrne, Jacqueline Acevedo, Gustavo Di Dalva",
+      watch: "HBO",
+      poster: "images/American Utopia.jpeg"
     },
     movie34: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Black is... Ain't Black",
+      year: "1994",
+      genre: "Documentary",
+      synopsis: "A film about black experiences with a backdrop of Creole cooking.",
+      director: "Marlon Riggs",
+      starring: "Angela Davis, Essex Hemphill, bell hooks",
+      watch: "YouTube",
+      poster: "images/black isnt black.jpg"
     },
     movie35: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Man with a Movie Camera",
+      year: "1929",
+      genre: "Documentary",
+      synopsis: "A man travels around a city with a camera slung over his shoulder, documenting urban life with dazzling invention.",
+      director: "Dziga Vertov",
+      starring: "Mikhail Kaufman, Elizaveta Svilova",
+      watch: "YouTube",
+      poster: "images/The man with the camera.jpeg"
     },
     movie36: {
       title: "Movie...",
@@ -450,54 +450,54 @@ const movieData = {
       poster: "images/Alvin Andhika.jpg"
     },
     movie46: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Get Out",
+      year: "2017",
+      genre: "Horror Thriller",
+      synopsis: "A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.",
+      director: "Jordan Peele",
+      starring: "Daniel Kaluuya, Allison Williams, Bradley Whitford",
+      watch: "Apple TV, Netflix",
+      poster: "images/Get Out.jpg"
     },
     movie47: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Limitless",
+      year: "2011",
+      genre: "Action",
+      synopsis: "A mysterious pill that enables the user to access 100% of his brain's abilities transforms a struggling writer into a financial wizard, but it also puts him in a new world with many dangers.",
+      director: "Neil Burger",
+      starring: "Bradley Cooper, Anna Friel, Abbie Cornish",
+      watch: "Netflix",
+      poster: "images/Limitless.jpg"
     },
     movie48: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "The Invisible Guest",
+      year: "2016",
+      genre: "Thriller",
+      synopsis: "A young businessman wakes up in a hotel room locked from the inside with the dead body of his lover next to him. He hires a prestigious lawyer, and over one night they work together to clarify what happened in a frenetic race against time.",
+      director: "Oriol Paulo",
+      starring: "Mario Casas, Ana Wagener, Jose Coronado",
+      watch: "Netflix",
+      poster: "images/Invisible Guest.jpg"
     },
     movie49: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Baby Driver",
+      year: "2017",
+      genre: "Action",
+      synopsis: "Talented getaway driver Baby relies on the beat of his personal soundtrack to be the best in the game. After meeting the woman of his dreams, he sees a chance to ditch his shady lifestyle and make a clean break. Coerced into working for a crime boss, Baby must face the music as a doomed heist threatens his life, love and freedom.",
+      director: "Edgar Wright",
+      starring: "Ansel ElgortJon, BernthalJon Hamm",
+      watch: "Apple TV, CatchPlay, Vidio.com",
+      poster: "images/Baby Driver.jpeg"
     },
     movie50: {
-      title: "Movie...",
+      title: "Oldboy",
       year: "xxxx",
       genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      synopsis: "Dae-Su is an obnoxious drunk bailed from the police station yet again by a friend. However, he's abducted from the street and wakes up in a cell, where he remains for the next 15 years, drugged unconscious when human contact is unavoidable, otherwise with only the television as company. And then, suddenly released, he is invited to track down his jailor with a denouement that is simply stunning.",
+      director: "Park Chan-wook",
+      starring: "Choi Min-sikYoo, Ji-taeKang, Hye-jeong.",
+      watch: "KlikFilm",
+      poster: "images/Old Boy.jpeg"
     },
 };
   
