@@ -1,0 +1,486 @@
+/* Warna Utama */
+:root {
+    --main-bg: #021024; /* Latar belakang utama */
+    --text-color: #FFFFFF; /* Teks utama */
+    --highlight: #F12A41; /* Warna highlight */
+    --button-color: #484AC4; /* Warna tombol */
+    --shadow-color: rgba(0, 0, 0, 0.15); /* Bayangan */
+    --font-main: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Reset dasar */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--main-bg);
+    color: var(--text-color);
+    font-family: var(--font-main);
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar */
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    background-color: #021024;
+}
+  
+header .logo img {
+    height: 140px;
+    margin-top: -35px;
+}
+  
+header .navbar {
+    list-style: none;
+    display: flex;
+    margin-left: auto; /* This will push the nav links to the right */
+}
+  
+header .navbar li {
+    margin-left: 30px; /* Optional: Adds space between the nav items */
+    margin-top: -35px;
+}
+  
+header .navbar a {
+    color: #91DAF5;
+    text-decoration: none;
+    font-size: 15px;
+}
+  
+header .navbar a:hover {
+    text-decoration: underline;
+}
+  
+/* Main Section */
+.eyes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #021024;
+    text-align: center;
+}
+
+.eyes-content {
+    color: #FFFFFF;
+}
+
+.eyes-image img {
+    width: 1000px;
+    background-color: #021024;
+    margin-bottom: -300px;
+    margin-top: -185px;
+}
+  
+h1 {
+    font-size: 48px;
+    margin-top: 20px;
+}
+
+p {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.blue {
+    color: #91DAF5;
+}
+
+.red {
+    color: #F12A41;
+}
+
+/* Movie Grid Layout */
+.movies-grid,
+.short-movies-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+/* Movie Grid Layout */
+.movies-grid,
+.short-movies-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 20px;
+  margin-top: 20px;
+}
+
+/* Movie Item Styling */
+.movie-item {
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Add transition for smooth hover effect */
+}
+
+.movie-item:hover {
+  transform: scale(1.05); /* Scale up slightly on hover */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add a subtle shadow */
+}
+
+.movie-item img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.movie-item h3 {
+  margin: 10px 0 5px;
+  font-size: 1.2rem;
+}
+
+.movie-item p {
+  font-size: 0.9rem;
+  color: #ccc;
+}
+
+/* Placeholder Styling */
+.placeholder {
+  background-color: #f0f0f0;
+  border: 2px dashed #ccc;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+}
+
+.placeholder-content {
+  width: 50%;
+  height: 50%;
+  background-color: #ccc;
+  border-radius: 10px;
+}
+
+/* Section Titles */
+.movie-list h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.movie-list h3 {
+  margin-top: 40px;
+  font-size: 1.5rem;
+}
+
+/* Our Slogan */
+.features {
+    padding: 40px;
+    background-color: #0A084C;
+    text-align: center;
+}
+
+.features h2 {
+    font-size: 36px;
+    margin-bottom: 80px;
+}
+
+.features h3 { 
+    color: #91DAF5; /* New text color for h3 */ 
+}
+
+.features-grid {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.feature {
+    width: 30%;
+}
+
+.feature img {
+    width: 100px;
+    height: 100px;
+}
+
+.feature h3 {
+    font-size: 24px;
+    margin-top: 10px;
+}
+
+.feature p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* Featured Movies */
+.movie-list {
+    padding: 40px;
+    background-color: #021024;
+    text-align: center;
+}
+
+.movie-list h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.movies-grid {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.movie-item {
+    background-color: #484AC4;
+    padding: 20px;
+    border-radius: 10px;
+    width: 250px;
+}
+
+.movie-item img {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.movie-item h3 {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.movie-item p {
+    color: #91DAF5;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+/* About Us Section */
+.about-us {
+    margin: 70px 70px;
+    text-align: center;
+}
+  
+.about-us h2 {
+    font-size: 3rem;
+    margin-bottom: 200px;
+    color: white; /* Warna judul */
+}
+  
+.team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 40px;
+    justify-content: center;
+    align-items: center;
+}
+  
+  /* Team Member Styling */
+.team-member {
+    text-align: center;
+    background-color: #484AC4; /* Background abu gelap */
+    padding: 15px;
+    border-radius: 10px;
+}
+  
+.team-member img {
+    width: 100px; /* Ukuran foto anggota */
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%; /* Bentuk lingkaran */
+    margin-bottom: 10px;
+    border: 2px solid white;
+}
+  
+.team-member h3 {
+    font-size: 1rem;
+    margin: 5px 0;
+    color: white; /* Nama anggota */
+}
+
+/* About Us */
+.about-us-list {
+    padding: 40px;
+    background-color: #021024;
+    text-align: center;
+}
+
+.about-us-list h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.about-us-grid {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+
+.about-us-item {
+    background-color: #484AC4;
+    padding: 20px;
+    border-radius: 55px;
+    width: 250px;
+}
+
+.about-us-item img {
+    width: 100%;
+    border-radius: 100px;
+}
+
+.about-us-item p {
+    color: #91DAF5;
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.about-us-item h3 {
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+/* Footer */
+footer {
+    padding: 20px;
+    background-color: #021024;
+    text-align: center;
+    color: #FFFFFF;
+}
+.hidden {
+    display: none;
+}
+  
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+  
+.poster-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+  
+.movie-poster {
+    cursor: pointer;
+    text-align: center;
+}
+  
+.movie-poster img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s;
+}
+  
+.movie-poster img:hover {
+    transform: scale(1.05);
+}
+  
+.movie-title {
+    margin-top: 10px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Pop-up Overlay */
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+  
+.popup {
+    background: var(--main-bg);
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: left;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    max-width: 700px;
+    width: 90%;
+    position: relative;
+}
+  
+.popup .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+    color: white;
+}
+  
+.popup-content {
+    display: flex;
+    align-items: flex-start;
+}
+  
+.poster-and-title {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 20px;
+}
+.popup-logo  {
+    height: 160px;
+    border-radius: 10px;
+    margin-bottom: -50px;
+    margin-top: -40px;
+}
+.popup-poster {
+    width: 200px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+  
+.popup-movie-title {
+    background: #484AC4;
+    border-radius: 20px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+}
+  
+.popup-movie-title h2 {
+    color: white;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+  
+.popup-movie-title p {
+    color: #91DAF5;
+    font-size: 18px;
+}
+  
+.popup-text {
+    flex-grow: 1;
+}
+  
+.popup-text p {
+    color: white;
+    margin-bottom: 10px;
+}
+  
+.popup p strong { 
+    color: #91DAF5 
+}
+
+.hidden {
+    display: none;
+}

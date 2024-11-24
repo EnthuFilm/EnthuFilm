@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EnthuFilm</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <!-- Navbar -->
+    <header>
+      <a href="#" class="logo">
+        <img src="images/logo.png" alt="EnthuFilm Logo" />
+      </a>
+      <ul class="navbar">
+        <li>
+          <strong><a href="#movies">Movies</a></strong>
+        </li>
+        <li>
+          <strong><a href="#our-recommendations">Our Recommendation</a></strong>
+        </li>
+        <li>
+          <strong><a href="#about-us">About Us</a></strong>
+        </li>
+      </ul>
+    </header>
+
+    <!-- Main Section -->
+    <section class="eyes" id="home">
+      <div class="eyes-content">
+        <div class="eyes-image">
+          <img src="images/eyes.png" class="eyes-image" alt="eyes" />
+        </div>
+        <h1>
+          <span class="blue">This is</span> EnthuFilm<span class="red">.</span>
+        </h1>
+        <p>
+          <strong>
+            <span class="blue">A place where your</span> eyes <br />
+            <span class="blue">will be</span> opened <br />
+            <span class="blue">because of the</span> unseen creativity<span
+              class="red"
+              >.</span
+            >
+          </strong>
+        </p>
+      </div>
+    </section>
+
+    <!-- Features Section -->
+    <section class="features">
+      <h2>Our Slogan is<span class="red">...</span></h2>
+      <div class="features-grid">
+        <div class="feature">
+          <img src="images/discover.png" alt="Eye 1" />
+          <h3>Discover</h3>
+          <p>
+            Discover the uniqueness and <br />
+            beauties <br />
+            of those underrated movies.
+          </p>
+        </div>
+        <div class="feature">
+          <img src="images/watch.png" alt="Television" />
+          <h3>Watch</h3>
+          <p>
+            Find the way to watch the <br />
+            movies you would love.
+          </p>
+        </div>
+        <div class="feature">
+          <img src="images/repeat.png" alt="Refresh" />
+          <h3>Repeat</h3>
+          <p>
+            and repeat! <br />
+            As simple as that!
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Featured Movies -->
+    <section class="movie-list" id="movies">
+      <h2>Featured Movies<span class="red">.</span></h2>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie1')">
+          <img src="images/Maharaja.png" alt="Movie 1" />
+          <h3>Maharaja</h3>
+          <p>2024 | Action</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie2')">
+          <img src="images/Monster.png" alt="Movie 2" />
+          <h3>Monster</h3>
+          <p>2023 | Drama</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie3')">
+          <img src="images/PK.jpg" alt="Movie 3" />
+          <h3>PK</h3>
+          <p>2014 | Comedy</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie4')">
+          <img src="images/You Are the Apple of My Eye.jpg" alt="Movie 4" />
+          <h3>You Are The Apple Of My Eye</h3>
+          <p>2011 | Drama Romance</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie5')">
+          <img src="images/The Favourite.png" alt="Movie 5" />
+          <h3>The Favourite</h3>
+          <p>2018 | Drama Comedy</p>
+        </div>
+      </div>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie21')">
+          <img
+            src="images/Pirates of the Caribbean Dead Man's Chest.jpg"
+            alt="Movie 21"
+          />
+          <h3>Pirates of the Caribbean : Dead Man's Chest</h3>
+          <p>2006 | Adventure</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie22')">
+          <img src="images/Anonymously Yours.jpg" alt="Movie 22" />
+          <h3>Anonymously Yours</h3>
+          <p>2021 | Drama Comedy</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie23')">
+          <img src="images/A Walk To Remember.png" alt="Movie 23" />
+          <h3>A Walk to Remember</h3>
+          <p>2002 | Drama Romance</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie24')">
+          <img src="images/Flipped.png" alt="Movie 24" />
+          <h3>Flipped</h3>
+          <p>2010 | Drama Comedy</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie25')">
+          <img src="images/The Game.png" alt="Movie 25" />
+          <h3>The Game</h3>
+          <p>1997 | Thriller Psychology</p>
+        </div>
+      </div>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie41')">
+          <img src="images/Alvin Andhika.jpg" alt="Movie 41" />
+          <h3>Movie 41</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie42')">
+          <img src="images/Alvin Andhika.jpg" alt="Movie 42" />
+          <h3>Movie 42</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie43')">
+          <img src="images/Alvin Andhika.jpg" alt="Movie 43" />
+          <h3>Movie 43</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie44')">
+          <img src="images/Alvin Andhika.jpg" alt="Movie 44" />
+          <h3>Movie 44</h3>
+          <p>xxxx| Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie45')">
+          <img src="images/Alvin Andhika.jpg" alt="Movie 45" />
+          <h3>Movie 45</h3>
+          <p>xxxx | Genre</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Our Recommendations -->
+    <section class="movie-list" id="our-recommendations">
+      <h2>Our Recommendations<span class="red">.</span></h2>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie6')">
+          <img src="images/The Pursuit of Happyness.png" alt="Movie 6" />
+          <h3>The Pursuit of Happyness</h3>
+          <p>2006 | Drama Biography</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie7')">
+          <img src="images/Nobody.png" alt="Movie 7" />
+          <h3>Nobody</h3>
+          <p>2021 | Action</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie8')">
+          <img src="images/The Equalizer.png" alt="Movie 8" />
+          <h3>The Equalizer</h3>
+          <p>2014 | Action</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie9')">
+          <img src="images/Oldboy.png" alt="Movie 9" />
+          <h3>Oldboy</h3>
+          <p>2003 | Action</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie10')">
+          <img src="images/Senna.png" alt="Movie 10" />
+          <h3>Senna</h3>
+          <p>2010 | Sport</p>
+        </div>
+      </div>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie26')">
+          <img src="images/Fight Club.jpg" alt="Movie 26" />
+          <h3>Fight Club</h3>
+          <p>1999 | Psychological Drama</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie27')">
+          <img src="images/The Girl with the Dragon Tatto.jpg" alt="Movie 27" />
+          <h3>The Girl with the Dragon Tatto</h3>
+          <p>2011 | Mystery</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie28')">
+          <img src="images/Overdrive.jpg" alt="Movie 28" />
+          <h3>Overdrive</h3>
+          <p>2017 | Action</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie29')">
+          <img src="images/About Time.jpg" alt="Movie 29" />
+          <h3>About Time</h3>
+          <p>2013 | Romantic Comedy</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie30')">
+          <img src="images/Edward Scissorhands.jpg" alt="Movie 30" />
+          <h3>Edward Scissorhands</h3>
+          <p>1990 | Dark Fantasy</p>
+        </div>
+      </div>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie46')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Movie 46" />
+          <h3>Movie 46</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie47')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Movie 47" />
+          <h3>Movie 47</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie48')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Movie 48" />
+          <h3>Movie 48</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie49')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Movie 49" />
+          <h3>Movie 49</h3>
+          <p>xxxx| Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie50')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Movie 50" />
+          <h3>Movie 50</h3>
+          <p>xxxx | Genre</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Documentary -->
+    <section class="movie-list" id="documentary">
+      <h2>Documentary<span class="red">.</span></h2>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie11')">
+          <img src="images/Bob Dylan Dont Look Back.jpg" alt="Documentary 1" />
+          <h3>Bob Dylan : Dont Look Back</h3>
+          <p>1967 | Music</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie12')">
+          <img src="images/Fire of Love.jpg" alt="Documentary 2" />
+          <h3>Fire of Love</h3>
+          <p>2022 | Biography</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie13')">
+          <img src="images/Baraka.jpg" alt="Documentary 3" />
+          <h3>Baraka</h3>
+          <p>1992 | Documentary</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie14')">
+          <img
+            src="images/Paradise Lost The Child Murders at Robin Hood.jpg"
+            alt="Documentary 4"
+          />
+          <h3>Paradise Lost: The Child Murders at Robin Hood</h3>
+          <p>1996 | Crime</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie15')">
+          <img src="images/Paris is Burning.png" alt="Documentary 5" />
+          <h3>Paris is Burning</h3>
+          <p>1991 | Documentary</p>
+        </div>
+      </div>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie31')">
+          <img
+            src="images/Summer of Soul (…Or, When the Revolution Could Not Be Televised).jpg"
+            alt="Documentary 6"
+          />
+          <h3>Summer of Soul</h3>
+          <p>2021 | Music</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie32')">
+          <img src="images/The Look of Silence.png" alt="Documentary 7" />
+          <h3>The Look of Silence</h3>
+          <p>2014 | Documentary</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie33')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Documentary 8" />
+          <h3>Movie 33</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie34')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Documentary 9" />
+          <h3>Movie 34</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie35')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Documentary 10" />
+          <h3>Movie 35</h3>
+          <p>xxxx | Genre</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Nusantara -->
+    <section class="movie-list" id="nusantara-movies">
+      <h2>Nusantara Movies<span class="red">.</span></h2>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie16')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 1" />
+          <h3>Movie 16</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie17')">
+          <img src="images/5 cm.png" alt="Nusantara Movie 2" />
+          <h3>5 cm</h3>
+          <p>2012 | Adventure Drama</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie18')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 3" />
+          <h3>Movie 18</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie19')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 4" />
+          <h3>Movie 19</h3>
+          <p>xxxx| Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie20')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 5" />
+          <h3>Movie 20</h3>
+          <p>xxxx | Genre</p>
+        </div>
+      </div>
+      <div class="movies-grid">
+        <div class="movie-item" onclick="showPopup('movie36')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 6" />
+          <h3>Movie 36</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie37')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 7" />
+          <h3>Movie 37</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie38')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 8" />
+          <h3>Movie 38</h3>
+          <p>xxxx | Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie39')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 9" />
+          <h3>Movie 39</h3>
+          <p>xxxx| Genre</p>
+        </div>
+        <div class="movie-item" onclick="showPopup('movie40')">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Nusantara Movie 10" />
+          <h3>Movie 40</h3>
+          <p>xxxx | Genre</p>
+        </div>
+      </div>
+    </section>
+
+    <!-- About Us Section -->
+    <section class="about-us-list" id="about-us">
+      <h2>About Us<span class="red">.</span></h2>
+      <div class="about-us-grid">
+        <!-- Team Member 1 -->
+        <div class="about-us-item">
+          <img src="images/Alvin Andhika.jpg" alt="Alvin's Photo" />
+          <p><strong>Developer</strong></p>
+          <h3>Alvin Andhika</h3>
+        </div>
+        <!-- Team Member 2 -->
+        <div class="about-us-item">
+          <img src="images/Musa Maula.jpg" alt="Nadhine's Photo" />
+          <p><strong>Developer</strong></p>
+          <h3>Musa Maula</h3>
+        </div>
+        <!-- Team Member 3 -->
+        <div class="about-us-item">
+          <img src="images/Nadhine Sihombing.jpg" alt="Musa's Photo" />
+          <p><strong>Project Manager</strong></p>
+          <h3>Nadhine Sihombing</h3>
+        </div>
+        <!-- Team Member 4 -->
+        <div class="about-us-item">
+          <img src="images/Kanza Naulu.jpg" alt="Kayla's Photo" />
+          <p><strong>UI/UX Designer</strong></p>
+          <h3>Kanza Naulu</h3>
+        </div>
+        <!-- Team Member 5 -->
+        <div class="about-us-item">
+          <img src="images/Danadyaksa Naufal.jpg" alt="Naufal's Photo" />
+          <p><strong>Developer</strong></p>
+          <h3>Danadyaksa Naufal</h3>
+        </div>
+      </div>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+      <p>&copy; 2024 EnthuFilm. All rights reserved.</p>
+    </footer>
+
+    <!-- Pop-up Overlay -->
+    <div class="popup-overlay hidden" id="popupOverlay">
+      <div class="popup" id="popup">
+        <button class="close-btn" onclick="togglePopup()">X</button>
+        <div class="popup-content">
+          <div class="poster-and-title">
+            <img src="" alt="" class="popup-poster" />
+            <div class="popup-movie-title">
+              <h2></h2>
+              <p></p>
+            </div>
+            <img
+              src="images/logo.png"
+              alt="EnthuFilm Logo"
+              class="popup-logo"
+            />
+          </div>
+          <div class="popup-text">
+            <p><strong>Synopsis:</strong><br /></p>
+            <p><strong>Director:</strong><br /></p>
+            <p><strong>Starring:</strong><br /></p>
+            <p><strong>Where to Watch:</strong><br /></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script src="scripts.js"></script>
+  </body>
+</html>
