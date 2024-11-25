@@ -156,7 +156,7 @@ const movieData = {
       synopsis: "A film delivery man promises a beautiful young woman to deliver a film reel on time to a movie theater. But the the whole city seems to conspire against him.",
       director: "Joko Anwar",
       starring: "Nicholas Saputra, Mariana Renata, Rachel Maryam Sayidina",
-      watch: "Netflix, Vidio.com",
+      watch: "Netflix, Vidio",
       poster: "images/Janji Joni.jpg"
     },
     movie17: {
@@ -166,7 +166,7 @@ const movieData = {
       synopsis: "Genta, Arial, Zafran, Riani, and Ian felt \"tired\" of their friendship and decided to separate, not communicating with each other for three months. For three months they meet again and celebrate their meeting with a journey full of dreams and challenges. A journey of the heart to fly the red and white saka on the highest peak of Java on August 17th.",
       director: "Rizal Mantovani",
       starring: "Herjunot Ali,  Raline Shah, Fedi Nuril",
-      watch: "Netflix, Vidio.com",
+      watch: "Netflix, Vidio",
       poster: "images/5 cm.png"
     },
     movie18: {
@@ -176,7 +176,7 @@ const movieData = {
       synopsis: "Ambar and her cousin Yusuf get drunk, miss a flight, and decide to drive to the family wedding they are in danger of missing. They encounter bizarre people along the way while avoiding the sexual tension growing between them.",
       director: "Riri Riza",
       starring: "Inong Ayu, Bowie Budianto, Chichi Kadijono",
-      watch: "Netflix, Vidio.com",
+      watch: "Netflix, Vidio",
       poster: "images/3 Hari Untuk Selamanya.jpg"
     },
     movie19: {
@@ -186,7 +186,7 @@ const movieData = {
       synopsis: "A teenage girl who led a perfect life. Her life completely changes when her parents good friend and his son came from France to stay with them.",
       director: "Nasri Cheppy",
       starring: "Shandy Aulia, Samuel Rizal, Vena Annisa",
-      watch: "Netflix, Vidio.com",
+      watch: "Netflix, Vidio",
       poster: "images/Eiffel_I'm_in_Love.jpg"
     },
     movie20: {
@@ -196,7 +196,7 @@ const movieData = {
       synopsis: "A rich teenager who wants to study abroad meets an attractive student who can offer valuable opinions - and maybe more.",
       director: "Sunil Soraya",
       starring: "Shandy Aulia, Samuel Rizal, Dimas Beck",
-      watch: "Netflix, Vidio.com",
+      watch: "Netflix, Vidio",
       poster: "images/Apa Artinya Cinta.jpg"
     },
     movie21: {
@@ -256,7 +256,7 @@ const movieData = {
       synopsis: "A nameless first-person narrator attends support groups in an attempt to subdue his emotional state and relieve his insomniac state. When he meets Marla, another fake attendee of support groups, his life seems to become a little more bearable. However, when he associates himself with Tyler he is dragged into an underground fight club and soap-making scheme. Together the two men spiral out of control and engage in competitive rivalry for love and power.",
       director: "David Fincher",
       starring: "Brad Pitt, Edward Norton, Meat Loaf",
-      watch: "Disney Hotstar, Apple TV, Hulu",
+      watch: "Disney Hotstar, Apple TV, HULU",
       poster: "images/Fight Club.jpg"
     },
     movie27: {
@@ -296,7 +296,7 @@ const movieData = {
       synopsis: "In a castle high on top of a hill lives an inventor's greatest creation - Edward, a near-complete person. The creator died before he could finish Edward's hands; instead, he is left with metal scissors for hands. Since then, he has lived alone, until a kind lady called Peg discovers him and welcomes him into her home. At first, everyone welcomes him into the community, but soon things begin to take a change for the worse.",
       director: "Tim Burton",
       starring: "Johnny Depp, Winona Ryder, Dianne Wiest",
-      watch: "Disney Hotstar, Hulu, Prime Video",
+      watch: "Disney Hotstar, HULU, Prime Video",
       poster: "images/Edward Scissorhands.jpg"
     },
     movie31: {
@@ -376,7 +376,7 @@ const movieData = {
       synopsis: "A tender, melancholic night is experienced through the eyes of three women as they struggle to find themselves in this ever-changing jungle of Jakarta.",
       director: "Lucky Kuswandi",
       starring: "Adinia Wirasti, Ina Panggabean, Dayu Wijanto",
-      watch: "Vidio.com",
+      watch: "Vidio",
       poster: "images/Selamat_Pagi_Malam_Poster.jpg"
     },
     movie39: {
@@ -426,7 +426,7 @@ const movieData = {
       synopsis: "After getting into trouble with the law in the United States, Sean Boswell is sent to live with his father in Tokyo to avoid jail time. In this new environment, Sean discovers the underground world of drift racing, led by the Drift King (Takashi). With the help of his mentor Han, Sean learns the art of drifting and gains the skills to compete against Takashi, culminating in a high-stakes race down a dangerous mountain pass.",
       director: "Justin Lin",
       starring: "Lucas Black, Zachery Ty Bryan, Shad Moss",
-      watch: "Amazon Prime Video, Apple TV, and Vudu",
+      watch: "Amazon Prime Video, Apple TV, Vudu",
       poster: "images/The Fast And The Furious - Tokyo Drift.jpeg"
     },
     movie44: {
@@ -486,7 +486,7 @@ const movieData = {
       synopsis: "Talented getaway driver Baby relies on the beat of his personal soundtrack to be the best in the game. After meeting the woman of his dreams, he sees a chance to ditch his shady lifestyle and make a clean break. Coerced into working for a crime boss, Baby must face the music as a doomed heist threatens his life, love and freedom.",
       director: "Edgar Wright",
       starring: "Ansel Elgort Jon, Bernthal Jon Hamm",
-      watch: "Apple TV, CatchPlay, Vidio.com",
+      watch: "Apple TV, CatchPlay, Vidio",
       poster: "images/Baby Driver.jpeg"
     },
     movie50: {
@@ -496,7 +496,7 @@ const movieData = {
       synopsis: "A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
       director: "Gil Junger",
       starring: "Heath Ledger, Julia Stiles, Joseph Gordon-Levitt",
-      watch: "KlikFilm",
+      watch: "Disney Hotstar, Prime Video, HULU",
       poster: "images/10 Things I Hate About You.jpg"
     },
   };
