@@ -87,7 +87,7 @@ const movieData = {
       director: "Park Chan-wook",
       starring: "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",
       watch: "Netflix, Apple TV, Klikfilm",
-      poster: "images/Old boy.jpg"
+      poster: "images/Oldboy.png"
     },
     movie10: {
       title: "Senna",
@@ -185,12 +185,12 @@ const movieData = {
       genre: "Romance Comedy",
       synopsis: "A teenage girl who led a perfect life. Her life completely changes when her parents good friend and his son came from France to stay with them.",
       director: "Nasri Cheppy",
-      starring: "Shandy AuliaSamuel RizalVena Annisa",
+      starring: "Shandy Aulia, Samuel Rizal, Vena Annisa",
       watch: "Netflix, Vidio.com",
       poster: "images/Eiffel_I'm_in_Love.jpg"
     },
     movie20: {
-      title: "Movie...",
+      title: "Apa Artinya Cinta?",
       year: "2005",
       genre: "Romance Comedy",
       synopsis: "A rich teenager who wants to study abroad meets an attractive student who can offer valuable opinions - and maybe more.",
@@ -327,7 +327,7 @@ const movieData = {
       director: "Spike Lee",
       starring: "David Byrne, Jacqueline Acevedo, Gustavo Di Dalva",
       watch: "HBO",
-      poster: "images/American Utopia.jpg"
+      poster: "images/American Utopia.jpeg"
     },
     movie34: {
       title: "Black is... Ain't Black",
@@ -410,12 +410,12 @@ const movieData = {
       poster: "images/Fallen Angels.jpeg"
     },
     movie42: {
-      title: "Stranger Things 4",
+      title: "Stranger Things",
       year: "2022",
       genre: "Drama",
-      synopsis: "Set in March 1986, eight months after the Battle of Starcourt, this season follows multiple storylines. In Hawkins, a series of mysterious murders are linked to a powerful entity from the Upside Down, later called Vecna. Eleven struggles to regain her powers with the help of Dr. Brenner and Dr. Owens, while her friends search for her. Meanwhile, Joyce and Murray attempt to rescue Hopper from a Soviet prison, where they face dangerous creatures. The separate arcs converge in an intense finale, setting the stage for the series next chapter​.",
-      director: "Various",
-      starring: "Millie Bobby Brown (Eleven), Finn Wolfhard (Mike), Winona Ryder (Joyce), David Harbour (Hopper), Gaten Matarazzo (Dustin), Caleb McLaughlin (Lucas), Sadie Sink (Max), Natalia Dyer (Nancy), Charlie Heaton (Jonathan), Joe Keery (Steve), and Maya Hawke (Robin). Jamie Campbell Bower joins as Vecna",
+      synopsis: "Following the events of Starcourt, a new evil emerges from the Upside Down, threatening Hawkins. Eleven, now powerless, struggles to regain her abilities, while Joyce and Murray embark on a perilous mission to rescue Hopper from a Soviet prison. As these storylines intertwine, the fate of Hawkins hangs in the balance.",
+      director: "Matt Duffer, Ross Duffer",
+      starring: "Millie Bobby Brown, Finn Wolfhard, Winona Ryder",
       watch: "Netflix",
       poster: "images/Stranger Things 4.jpeg"
     },
@@ -425,7 +425,7 @@ const movieData = {
       genre: "Action",
       synopsis: "After getting into trouble with the law in the United States, Sean Boswell is sent to live with his father in Tokyo to avoid jail time. In this new environment, Sean discovers the underground world of drift racing, led by the Drift King (Takashi). With the help of his mentor Han, Sean learns the art of drifting and gains the skills to compete against Takashi, culminating in a high-stakes race down a dangerous mountain pass..",
       director: "Justin Lin",
-      starring: "Lucas Black as Sean Boswell,Sung Kang as Han Lue,Bow Wow (Shad Moss) as Twinkie,Nathalie Kelley as Neela,Brian Tee as Takashi",
+      starring: "Lucas Black, Zachery Ty Bryan, Shad Moss",
       watch: "Amazon Prime Video, Apple TV, and Vudu",
       poster: "images/The Fast And The Furious - Tokyo Drift.jpeg"
     },
@@ -435,7 +435,7 @@ const movieData = {
       genre: "Action",
       synopsis: "In F9: The Fast Saga, Dominic Toretto (Vin Diesel) faces his most personal challenge yet when his estranged brother Jakob (John Cena) teams up with the dangerous cyberterrorist Cipher (Charlize Theron). Jakob seeks revenge, leading to explosive confrontations and high-octane stunts. Dom must reunite his crew to protect his family and stop a global threat tied to a device called Project Aries..",
       director: "Justin Lin",
-      starring: "Vin Diesel, Michelle Rodriguez, John Cena, Jordana Brewster, Tyrese Gibson, Ludacris, Charlize Theron, Helen Mirren.",
+      starring: "Vin Diesel, Michelle Rodriguez, John Cena",
       watch: "Amazon Prime Video",
       poster: "images/The Fast Saga.jpeg"
     },
@@ -445,7 +445,7 @@ const movieData = {
       genre: "Crime Drama",
       synopsis: "Mickey Haller is a charismatic and street-smart criminal defense attorney who runs his practice out of the backseat of his Lincoln Town Car. When he lands a high-profile case defending a wealthy playboy accused of assault, Mickey sees it as a golden opportunity. However, as he digs deeper into the case, he uncovers dark secrets and dangerous twists that put his life and moral compass at risk..",
       director: "Brad Furman",
-      starring: "Matthew McConaughey as Mickey Haller,Ryan Phillippe as Louis Roulet,Marisa Tomei as Maggie McPherson,William H. Macy as Frank Levin",
+      starring: "Matthew McConaughey, Ryan Phillippe, Marisa Tomei",
       watch: "Netflix",
       poster: "images/The Lincoln Lawyer.jpeg"
     },
@@ -485,7 +485,7 @@ const movieData = {
       genre: "Action",
       synopsis: "Talented getaway driver Baby relies on the beat of his personal soundtrack to be the best in the game. After meeting the woman of his dreams, he sees a chance to ditch his shady lifestyle and make a clean break. Coerced into working for a crime boss, Baby must face the music as a doomed heist threatens his life, love and freedom.",
       director: "Edgar Wright",
-      starring: "Ansel ElgortJon, BernthalJon Hamm",
+      starring: "Ansel Elgort Jon, Bernthal Jon Hamm",
       watch: "Apple TV, CatchPlay, Vidio.com",
       poster: "images/Baby Driver.jpeg"
     },
@@ -495,7 +495,7 @@ const movieData = {
       genre: "Romantic Comedy",
       synopsis: "A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
       director: "Gil Junger",
-      starring: "Heath LedgerJulia StilesJoseph Gordon-Levitt",
+      starring: "Heath Ledger, Julia Stiles, Joseph Gordon-Levitt",
       watch: "KlikFilm",
       poster: "images/10 Things I Hate About You.jpg"
     },
