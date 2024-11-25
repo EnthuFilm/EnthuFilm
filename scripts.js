@@ -27,7 +27,7 @@ const movieData = {
       director: "Rajkumar Hirani",
       starring: "Amir Khan, Anushka Sharma, Sanjay Dutt",
       watch: "Netflix",
-      poster: "images/PK.jpg"
+      poster: "images/PK.jpeg"
     },
     movie4: {
       title: "You Are the Apple of My Eye",
@@ -37,7 +37,7 @@ const movieData = {
       director: "Giddens Ko",
       starring: "Kai Ko, Michelle Chen, Shao-Wen Hao",
       watch: "Disney Hotstar",
-      poster: "images/You Are the Apple of My Eye.jpg"
+      poster: "images/You Are the Apple of My Eye.jpeg"
     },
     movie5: {
       title: "The Favourite",
@@ -87,7 +87,7 @@ const movieData = {
       director: "Park Chan-wook",
       starring: "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",
       watch: "Netflix, Apple TV, Klikfilm",
-      poster: "images/Oldboy.png"
+      poster: "images/Old boy.jpeg"
     },
     movie10: {
       title: "Senna",
@@ -107,7 +107,7 @@ const movieData = {
       director: "D.A. Pennebaker",
       starring: "Bob Dylan, Albert Grossman, Alan Price",
       watch: "Amazon Video, Apple TV",
-      poster: "images/Bob Dylan Dont Look Back.jpg"
+      poster: "images/Bob Dylan Dont Look Back.jpeg"
     },
     movie12: {
       title: "Fire of Love",
@@ -117,7 +117,7 @@ const movieData = {
       director: "Sara Dosa",
       starring: "Miranda July, Katia Kraftt, Maurice Kraftt",
       watch: "Disney Hotstar",
-      poster: "images/Fire of Love.jpg"
+      poster: "images/Fire of Love.jpeg"
     },
     movie13: {
       title: "Baraka",
@@ -127,7 +127,7 @@ const movieData = {
       director: "Ron Fricke",
       starring: "Ron Fricke, Mark Magidson, Genevieve Nicholas",
       watch: "Peacock, Tubi",
-      poster: "images/Baraka.jpg"
+      poster: "images/Baraka.jpeg"
     },
     movie14: {
       title: "Paradise Lost: The Child Murders at Robin Hood",
@@ -137,7 +137,7 @@ const movieData = {
       director: "Bruce Sinofsky, Joe Berlinger",
       starring: "Bruce Sinofsky, Joe Berlinger, Jason Baldwin",
       watch: "HBO GO",
-      poster: "images/Paradise Lost The Child Murders at Robin Hood.jpg"
+      poster: "images/Paradise Lost The Child Murders at Robin Hood.jpeg"
     },
     movie15: {
       title: "Paris is Burning",
@@ -157,7 +157,7 @@ const movieData = {
       director: "Joko Anwar",
       starring: "Nicholas Saputra, Mariana Renata, Rachel Maryam Sayidina",
       watch: "Netflix, Vidio.com",
-      poster: "images/Janji Joni.jpg"
+      poster: "images/Janji Joni.jpeg"
     },
     movie17: {
       title: "5 cm",
@@ -177,7 +177,7 @@ const movieData = {
       director: "Riri Riza",
       starring: "Inong Ayu, Bowie Budianto, Chichi Kadijono",
       watch: "Netflix, Vidio.com",
-      poster: "images/3 Hari Untuk Selamanya.jpg"
+      poster: "images/3 Hari Untuk Selamanya.jpeg"
     },
     movie19: {
       title: "Eiffel I'm in Love",
@@ -187,17 +187,17 @@ const movieData = {
       director: "Nasri Cheppy",
       starring: "Shandy AuliaSamuel RizalVena Annisa",
       watch: "Netflix, Vidio.com",
-      poster: "images/Eiffel_I'm_in_Love.jpg"
+      poster: "images/Eiffel_I'm_in_Love.jpeg"
     },
     movie20: {
-      title: "Apa Artinya Cinta",
+      title: "Movie...",
       year: "2005",
       genre: "Romance Comedy",
       synopsis: "A rich teenager who wants to study abroad meets an attractive student who can offer valuable opinions - and maybe more.",
       director: "Sunil Soraya",
       starring: "Shandy Aulia, Samuel Rizal, Dimas Beck",
       watch: "Netflix, Vidio.com",
-      poster: "images/Apa Artinya Cinta.jpg"
+      poster: "images/Apa Artinya Cinta.jpeg"
     },
     movie21: {
       title: "Pirates of the Caribbean : Dead Man's Chest",
@@ -207,7 +207,7 @@ const movieData = {
       director: "Gore Verbinski",
       starring: "Johnny Depp, Orlando Bloom, Keira Knightley",
       watch: "Disney Hotstar, Apple TV, Prime Video",
-      poster: "images/Pirates of the Caribbean Dead Man's Chest.jpg"
+      poster: "images/Pirates of the Caribbean Dead Man's Chest.jpeg"
     },
     movie22: {
       title: "Anonymously Yours",
@@ -217,7 +217,7 @@ const movieData = {
       director: "Maria Torres",
       starring: " Annie Cabello, Harold Azuara, Estefi Merelles",
       watch: "Netflix",
-      poster: "images/Anonymously Yours.jpg"
+      poster: "images/Anonymously Yours.jpeg"
     },
     movie23: {
       title: "A Walk to Remember",
@@ -257,7 +257,7 @@ const movieData = {
       director: "David Fincher",
       starring: "Brad Pitt, Edward Norton, Meat Loaf",
       watch: "Disney Hotstar, Apple TV, Hulu",
-      poster: "images/Fight Club.jpg"
+      poster: "images/Fight Club.jpeg"
     },
     movie27: {
       title: "The Girl with the Dragon Tatto",
@@ -267,7 +267,7 @@ const movieData = {
       director: "David Fincher",
       starring: "Daniel Craig, Rooney Mara, Christopher Plummer",
       watch: "Netflix, Disney Hotstar, Apple TV",
-      poster: "images/The Girl with the Dragon Tatto.jpg"
+      poster: "images/The Girl with the Dragon Tatto.jpeg"
     },
     movie28: {
       title: "Overdrive",
@@ -277,7 +277,7 @@ const movieData = {
       director: "Antonio Negret",
       starring: "HScott Eastwood, Freddie Thorp, Ana de Armas",
       watch: "Netflix, Vidio",
-      poster: "images/Overdrive.jpg"
+      poster: "images/Overdrive.jpeg"
     },
     movie29: {
       title: "About Time",
@@ -287,7 +287,7 @@ const movieData = {
       director: "Richard Curtis",
       starring: "Domhnall Gleeson, Rachel McAdams, Margot Robbie",
       watch: "Netflix, Apple TV, Prime Video",
-      poster: "images/About Time.jpg"
+      poster: "images/About Time.jpeg"
     },
     movie30: {
       title: "Edward Scissorhands",
@@ -297,7 +297,7 @@ const movieData = {
       director: "Tim Burton",
       starring: "Johnny Depp, Winona Ryder, Dianne Wiest",
       watch: "Disney Hotstar, Hulu, Prime Video",
-      poster: "images/Edward Scissorhands.jpg"
+      poster: "images/Edward Scissorhands.jpeg"
     },
     movie31: {
       title: "Summer of Soul",
@@ -307,7 +307,7 @@ const movieData = {
       director: "Ahmir \"Questlove\" Thompson",
       starring: "Dorinda Drake, Barbara Bland-Acosta, B.B King",
       watch: "Disney Hotstar",
-      poster: "images/Summer of Soul (…Or, When the Revolution Could Not Be Televised).jpg"
+      poster: "images/Summer of Soul (…Or, When the Revolution Could Not Be Televised).jpeg"
     },
     movie32: {
       title: "The Look of Silence",
@@ -337,7 +337,7 @@ const movieData = {
       director: "Marlon Riggs",
       starring: "Angela Davis, Essex Hemphill, bell hooks",
       watch: "YouTube",
-      poster: "images/black isnt black.jpg"
+      poster: "images/black isnt black.jpeg"
     },
     movie35: {
       title: "Man with a Movie Camera",
@@ -357,7 +357,7 @@ const movieData = {
       director: "Hanung Bramantyo",
       starring: "Dennis Adhiswara, Rianti Cartwright, Rizky Hanggono",
       watch: "Netflix",
-      poster: "images/Jomblo.jpg"
+      poster: "images/Jomblo.jpeg"
     },
     movie37: {
       title: "Lovely Man",
@@ -367,7 +367,7 @@ const movieData = {
       director: "Teddy Soeriaatmadja",
       starring: "Donny Damara, Rauhaanun, Yaya Unru",
       watch: "Netflix",
-      poster: "images/Lovely Man.jpg"
+      poster: "images/Lovely Man.jpeg"
     },
     movie38: {
       title: "Selamat Pagi, Malam",
@@ -377,7 +377,7 @@ const movieData = {
       director: "Lucky Kuswandi",
       starring: "Adinia Wirasti, Ina Panggabean, Dayu Wijanto",
       watch: "Vidio.com",
-      poster: "images/Selamat_Pagi_Malam_Poster.jpg"
+      poster: "images/Selamat_Pagi_Malam_Poster.jpeg"
     },
     movie39: {
       title: "Mengejar Matahari",
@@ -387,7 +387,7 @@ const movieData = {
       director: "Rudi Soedjarwo",
       starring: "Winky Wiryawan, Fedi Nuril, Fauzi Baadiila, Udjo Project Pop",
       watch: "Netflix",
-      poster: "images/Mengejar_Matahari.jpg"
+      poster: "images/Mengejar_Matahari.jpeg"
     },
     movie40: {
       title: "The Photograph",
@@ -397,57 +397,57 @@ const movieData = {
       director: "Nan Triveni Achnas ",
       starring: "Lim Kay Tong, Shanty, Indy Barends",
       watch: "Netflix",
-      poster: "images/The_photograph.jpg "
+      poster: "images/The_photograph.jpeg "
     },
     movie41: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Alvin Andhika.jpg"
+      title: "Fallen Angels",
+      year: "1995",
+      genre: "Romance",
+      synopsis: "An assassin, his boss, an entrepreneur and two women cross paths in Hong Kong as their professional and love lives collide and influence each other, mostly without their knowledge.",
+      director: "Wong Kar-wai",
+      starring: "Leon Lai, Charlie Yeung",
+      watch: "MUBI, Amazon Video",
+      poster: "images/Fallen Angels.jpeg"
     },
     movie42: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Alvin Andhika.jpg"
+      title: "About Time",
+      year: "2013",
+      genre: "Romance",
+      synopsis: "When Tim Lake (Domhnall Gleeson) is 21, his father (Bill Nighy) tells him a secret: The men in their family can travel through time. Although he can't change history, Tim resolves to improve his life by getting a girlfriend. He meets Mary (Rachel McAdams), falls in love and finally wins her heart via time-travel and a little cunning. However, as his unusual life progresses, Tim finds that his special ability can't shield him and those he loves from the problems of ordinary life.",
+      director: "Richard Curtis",
+      starring: "Domhnall Gleeson, Rachel McAdams",
+      watch: "Apple TV, Amazon Video  Domhnall Gleeson, Rachel McAdams",
+      poster: "images/About Time.jpeg"
     },
     movie43: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Alvin Andhika.jpg"
+      title: "Pirates of the Caribbean : Dead Man's Chest",
+      year: "2006",
+      genre: "Action",
+      synopsis: "When ghostly pirate Davy Jones (Bill Nighy) comes to collect a blood debt, Capt. Jack Sparrow (Johnny Depp) must find a way to avoid his fate lest his soul be damned for all time. Nevertheless, the wily ghost manages to interrupt the wedding plans of Jack's friends Will Turner (Orlando Bloom) and Elizabeth Swann (Keira Knightley).",
+      director: "Gore Verbinski",
+      starring: "Johnny Depp, Orlando Bloom, Keira Knightley",
+      watch: "Disney Hostar, Hulu, Amazon Video",
+      poster: "images/Pirates of the Caribbean : Dead Man's Chest"
     },
     movie44: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Alvin Andhika.jpg"
+      title: "The Girl with the Dragon Tatto",
+      year: "2011",
+      genre: "Thriller",
+      synopsis: "Disgraced financial reporter Mikael Blomkvist (Daniel Craig) finds a chance to redeem his honor after being hired by wealthy Swedish industrialist Henrik Vanger (Christopher Plummer) to solve the 40-year-old murder of Vanger's niece, Harriet. Vanger believes that Harriet was killed by a member of his own family. Eventually joining Blomkvist on his dangerous quest for the truth is Lisbeth Salander (Rooney Mara), an unusual but ingenious investigator whose fragile trust is not easily won.",
+      director: "David Fincher",
+      starring: "Daniel Craig, Rooney Mara",
+      watch: "Youtube, Amazon",
+      poster: "images/The Girl with the Dragon Tatto.jpeg"
     },
     movie45: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Alvin Andhika.jpg"
+      title: "Overdrive",
+      year: "2017",
+      genre: "Action",
+      synopsis: "A notorious crime boss forces two legendary car thieves to steal a vehicle to win back their freedom. Joined by two beautiful women, the team has one week to pull off the daring heist or risk losing everything, including their lives.",
+      director: "Antonio Negret",
+      starring: "Scott Eastwood, Freddie Thorp, Ana de Armas",
+      watch: "Vidio, Amazon",
+      poster: "images/Overdrive.jpeg"
     },
     movie46: {
       title: "Get Out",
@@ -457,7 +457,7 @@ const movieData = {
       director: "Jordan Peele",
       starring: "Daniel Kaluuya, Allison Williams, Bradley Whitford",
       watch: "Apple TV, Netflix",
-      poster: "images/Get Out.jpg"
+      poster: "images/Get Out.jpeg"
     },
     movie47: {
       title: "Limitless",
@@ -467,7 +467,7 @@ const movieData = {
       director: "Neil Burger",
       starring: "Bradley Cooper, Anna Friel, Abbie Cornish",
       watch: "Netflix",
-      poster: "images/Limitless.jpg"
+      poster: "images/Limitless.jpeg"
     },
     movie48: {
       title: "The Invisible Guest",
@@ -477,7 +477,7 @@ const movieData = {
       director: "Oriol Paulo",
       starring: "Mario Casas, Ana Wagener, Jose Coronado",
       watch: "Netflix",
-      poster: "images/Invisible Guest.jpg"
+      poster: "images/Invisible Guest.jpeg"
     },
     movie49: {
       title: "Baby Driver",
@@ -497,11 +497,11 @@ const movieData = {
       director: "Gil Junger",
       starring: "Heath LedgerJulia StilesJoseph Gordon-Levitt",
       watch: "KlikFilm",
-      poster: "images/10 Things I Hate About You.jpg"
+      poster: "images/10 Things I Hate About You.jpeg"
     },
-};
+  };
   
-function showPopup(movieId) {
+  function showPopup(movieId) {
     const movie = movieData[movieId];
     if (movie) {
       document.querySelector('.popup-poster').src = movie.poster;
@@ -515,15 +515,15 @@ function showPopup(movieId) {
       `;
       togglePopup();
     }
-}
+  }
   
-function togglePopup() {
+  function togglePopup() {
     const popupOverlay = document.getElementById('popupOverlay');
     popupOverlay.classList.toggle('hidden');
-}
+  }
   
-document.getElementById('popupOverlay').addEventListener('click', function(event) {
+  document.getElementById('popupOverlay').addEventListener('click', function(event) {
     if (event.target === this) {
       togglePopup();
     }
-});
+  });
