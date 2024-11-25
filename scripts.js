@@ -27,7 +27,7 @@ const movieData = {
       director: "Rajkumar Hirani",
       starring: "Amir Khan, Anushka Sharma, Sanjay Dutt",
       watch: "Netflix",
-      poster: "images/PK.jpeg"
+      poster: "images/PK.jpg"
     },
     movie4: {
       title: "You Are the Apple of My Eye",
@@ -37,7 +37,7 @@ const movieData = {
       director: "Giddens Ko",
       starring: "Kai Ko, Michelle Chen, Shao-Wen Hao",
       watch: "Disney Hotstar",
-      poster: "images/You Are the Apple of My Eye.jpeg"
+      poster: "images/You Are the Apple of My Eye.jpg"
     },
     movie5: {
       title: "The Favourite",
@@ -87,7 +87,7 @@ const movieData = {
       director: "Park Chan-wook",
       starring: "Choi Min-sik, Yoo Ji-tae, Kang Hye-jeong",
       watch: "Netflix, Apple TV, Klikfilm",
-      poster: "images/Old boy.jpeg"
+      poster: "images/Old boy.jpg"
     },
     movie10: {
       title: "Senna",
@@ -107,7 +107,7 @@ const movieData = {
       director: "D.A. Pennebaker",
       starring: "Bob Dylan, Albert Grossman, Alan Price",
       watch: "Amazon Video, Apple TV",
-      poster: "images/Bob Dylan Dont Look Back.jpeg"
+      poster: "images/Bob Dylan Dont Look Back.jpg"
     },
     movie12: {
       title: "Fire of Love",
@@ -117,7 +117,7 @@ const movieData = {
       director: "Sara Dosa",
       starring: "Miranda July, Katia Kraftt, Maurice Kraftt",
       watch: "Disney Hotstar",
-      poster: "images/Fire of Love.jpeg"
+      poster: "images/Fire of Love.jpg"
     },
     movie13: {
       title: "Baraka",
@@ -127,7 +127,7 @@ const movieData = {
       director: "Ron Fricke",
       starring: "Ron Fricke, Mark Magidson, Genevieve Nicholas",
       watch: "Peacock, Tubi",
-      poster: "images/Baraka.jpeg"
+      poster: "images/Baraka.jpg"
     },
     movie14: {
       title: "Paradise Lost: The Child Murders at Robin Hood",
@@ -137,7 +137,7 @@ const movieData = {
       director: "Bruce Sinofsky, Joe Berlinger",
       starring: "Bruce Sinofsky, Joe Berlinger, Jason Baldwin",
       watch: "HBO GO",
-      poster: "images/Paradise Lost The Child Murders at Robin Hood.jpeg"
+      poster: "images/Paradise Lost The Child Murders at Robin Hood.jpg"
     },
     movie15: {
       title: "Paris is Burning",
@@ -157,7 +157,7 @@ const movieData = {
       director: "Joko Anwar",
       starring: "Nicholas Saputra, Mariana Renata, Rachel Maryam Sayidina",
       watch: "Netflix, Vidio.com",
-      poster: "images/Janji Joni.jpeg"
+      poster: "images/Janji Joni.jpg"
     },
     movie17: {
       title: "5 cm",
@@ -177,7 +177,7 @@ const movieData = {
       director: "Riri Riza",
       starring: "Inong Ayu, Bowie Budianto, Chichi Kadijono",
       watch: "Netflix, Vidio.com",
-      poster: "images/3 Hari Untuk Selamanya.jpeg"
+      poster: "images/3 Hari Untuk Selamanya.jpg"
     },
     movie19: {
       title: "Eiffel I'm in Love",
@@ -187,7 +187,7 @@ const movieData = {
       director: "Nasri Cheppy",
       starring: "Shandy AuliaSamuel RizalVena Annisa",
       watch: "Netflix, Vidio.com",
-      poster: "images/Eiffel_I'm_in_Love.jpeg"
+      poster: "images/Eiffel_I'm_in_Love.jpg"
     },
     movie20: {
       title: "Movie...",
@@ -197,7 +197,7 @@ const movieData = {
       director: "Sunil Soraya",
       starring: "Shandy Aulia, Samuel Rizal, Dimas Beck",
       watch: "Netflix, Vidio.com",
-      poster: "images/Apa Artinya Cinta.jpeg"
+      poster: "images/Apa Artinya Cinta.jpg"
     },
     movie21: {
       title: "Pirates of the Caribbean : Dead Man's Chest",
@@ -207,7 +207,7 @@ const movieData = {
       director: "Gore Verbinski",
       starring: "Johnny Depp, Orlando Bloom, Keira Knightley",
       watch: "Disney Hotstar, Apple TV, Prime Video",
-      poster: "images/Pirates of the Caribbean Dead Man's Chest.jpeg"
+      poster: "images/Pirates of the Caribbean Dead Man's Chest.jpg"
     },
     movie22: {
       title: "Anonymously Yours",
@@ -217,7 +217,7 @@ const movieData = {
       director: "Maria Torres",
       starring: " Annie Cabello, Harold Azuara, Estefi Merelles",
       watch: "Netflix",
-      poster: "images/Anonymously Yours.jpeg"
+      poster: "images/Anonymously Yours.jpg"
     },
     movie23: {
       title: "A Walk to Remember",
@@ -257,7 +257,7 @@ const movieData = {
       director: "David Fincher",
       starring: "Brad Pitt, Edward Norton, Meat Loaf",
       watch: "Disney Hotstar, Apple TV, Hulu",
-      poster: "images/Fight Club.jpeg"
+      poster: "images/Fight Club.jpg"
     },
     movie27: {
       title: "The Girl with the Dragon Tatto",
@@ -267,7 +267,7 @@ const movieData = {
       director: "David Fincher",
       starring: "Daniel Craig, Rooney Mara, Christopher Plummer",
       watch: "Netflix, Disney Hotstar, Apple TV",
-      poster: "images/The Girl with the Dragon Tatto.jpeg"
+      poster: "images/The Girl with the Dragon Tatto.jpg"
     },
     movie28: {
       title: "Overdrive",
@@ -277,7 +277,7 @@ const movieData = {
       director: "Antonio Negret",
       starring: "HScott Eastwood, Freddie Thorp, Ana de Armas",
       watch: "Netflix, Vidio",
-      poster: "images/Overdrive.jpeg"
+      poster: "images/Overdrive.jpg"
     },
     movie29: {
       title: "About Time",
@@ -287,7 +287,7 @@ const movieData = {
       director: "Richard Curtis",
       starring: "Domhnall Gleeson, Rachel McAdams, Margot Robbie",
       watch: "Netflix, Apple TV, Prime Video",
-      poster: "images/About Time.jpeg"
+      poster: "images/About Time.jpg"
     },
     movie30: {
       title: "Edward Scissorhands",
@@ -297,7 +297,7 @@ const movieData = {
       director: "Tim Burton",
       starring: "Johnny Depp, Winona Ryder, Dianne Wiest",
       watch: "Disney Hotstar, Hulu, Prime Video",
-      poster: "images/Edward Scissorhands.jpeg"
+      poster: "images/Edward Scissorhands.jpg"
     },
     movie31: {
       title: "Summer of Soul",
@@ -307,7 +307,7 @@ const movieData = {
       director: "Ahmir \"Questlove\" Thompson",
       starring: "Dorinda Drake, Barbara Bland-Acosta, B.B King",
       watch: "Disney Hotstar",
-      poster: "images/Summer of Soul (…Or, When the Revolution Could Not Be Televised).jpeg"
+      poster: "images/Summer of Soul (…Or, When the Revolution Could Not Be Televised).jpg"
     },
     movie32: {
       title: "The Look of Silence",
@@ -327,7 +327,7 @@ const movieData = {
       director: "Spike Lee",
       starring: "David Byrne, Jacqueline Acevedo, Gustavo Di Dalva",
       watch: "HBO",
-      poster: "images/American Utopia.jpeg"
+      poster: "images/American Utopia.jpg"
     },
     movie34: {
       title: "Black is... Ain't Black",
@@ -347,7 +347,7 @@ const movieData = {
       director: "Dziga Vertov",
       starring: "Mikhail Kaufman, Elizaveta Svilova",
       watch: "YouTube",
-      poster: "images/The man with the camera.jpeg"
+      poster: "images/The man with the camera.jpg"
     },
     movie36: {
       title: "Jomblo",
@@ -357,7 +357,7 @@ const movieData = {
       director: "Hanung Bramantyo",
       starring: "Dennis Adhiswara, Rianti Cartwright, Rizky Hanggono",
       watch: "Netflix",
-      poster: "images/Jomblo.jpeg"
+      poster: "images/Jomblo.jpg"
     },
     movie37: {
       title: "Lovely Man",
@@ -367,7 +367,7 @@ const movieData = {
       director: "Teddy Soeriaatmadja",
       starring: "Donny Damara, Rauhaanun, Yaya Unru",
       watch: "Netflix",
-      poster: "images/Lovely Man.jpeg"
+      poster: "images/Lovely Man.jpg"
     },
     movie38: {
       title: "Selamat Pagi, Malam",
@@ -377,7 +377,7 @@ const movieData = {
       director: "Lucky Kuswandi",
       starring: "Adinia Wirasti, Ina Panggabean, Dayu Wijanto",
       watch: "Vidio.com",
-      poster: "images/Selamat_Pagi_Malam_Poster.jpeg"
+      poster: "images/Selamat_Pagi_Malam_Poster.jpg"
     },
     movie39: {
       title: "Mengejar Matahari",
@@ -387,7 +387,7 @@ const movieData = {
       director: "Rudi Soedjarwo",
       starring: "Winky Wiryawan, Fedi Nuril, Fauzi Baadiila, Udjo Project Pop",
       watch: "Netflix",
-      poster: "images/Mengejar_Matahari.jpeg"
+      poster: "images/Mengejar_Matahari.jpg"
     },
     movie40: {
       title: "The Photograph",
@@ -397,7 +397,7 @@ const movieData = {
       director: "Nan Triveni Achnas ",
       starring: "Lim Kay Tong, Shanty, Indy Barends",
       watch: "Netflix",
-      poster: "images/The_photograph.jpeg "
+      poster: "images/The_photograph.jpg "
     },
     movie41: {
       title: "Fallen Angels",
@@ -457,7 +457,7 @@ const movieData = {
       director: "Jordan Peele",
       starring: "Daniel Kaluuya, Allison Williams, Bradley Whitford",
       watch: "Apple TV, Netflix",
-      poster: "images/Get Out.jpeg"
+      poster: "images/Get Out.jpg"
     },
     movie47: {
       title: "Limitless",
@@ -467,7 +467,7 @@ const movieData = {
       director: "Neil Burger",
       starring: "Bradley Cooper, Anna Friel, Abbie Cornish",
       watch: "Netflix",
-      poster: "images/Limitless.jpeg"
+      poster: "images/Limitless.jpg"
     },
     movie48: {
       title: "The Invisible Guest",
@@ -477,7 +477,7 @@ const movieData = {
       director: "Oriol Paulo",
       starring: "Mario Casas, Ana Wagener, Jose Coronado",
       watch: "Netflix",
-      poster: "images/Invisible Guest.jpeg"
+      poster: "images/Invisible Guest.jpg"
     },
     movie49: {
       title: "Baby Driver",
@@ -487,7 +487,7 @@ const movieData = {
       director: "Edgar Wright",
       starring: "Ansel ElgortJon, BernthalJon Hamm",
       watch: "Apple TV, CatchPlay, Vidio.com",
-      poster: "images/Baby Driver.jpeg"
+      poster: "images/Baby Driver.jpg"
     },
     movie50: {
       title: "10 Things I Hate About You",
@@ -497,7 +497,7 @@ const movieData = {
       director: "Gil Junger",
       starring: "Heath LedgerJulia StilesJoseph Gordon-Levitt",
       watch: "KlikFilm",
-      poster: "images/10 Things I Hate About You.jpeg"
+      poster: "images/10 Things I Hate About You.jpg"
     },
   };
   
