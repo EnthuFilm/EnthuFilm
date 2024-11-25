@@ -190,7 +190,7 @@ const movieData = {
       poster: "images/Eiffel_I'm_in_Love.jpg"
     },
     movie20: {
-      title: "Movie...",
+      title: "Apa Artinya Cinta",
       year: "2005",
       genre: "Romance Comedy",
       synopsis: "A rich teenager who wants to study abroad meets an attractive student who can offer valuable opinions - and maybe more.",
