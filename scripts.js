@@ -350,54 +350,54 @@ const movieData = {
       poster: "images/The man with the camera.jpeg"
     },
     movie36: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Jomblo",
+      year: "2006",
+      genre: "Romantic Comedy",
+      synopsis: "Four college best friends with their funny lifestyle about college. Met a girl who taught them about love and betrayals, and their life would never be the same again.",
+      director: "Hanung Bramantyo",
+      starring: "Dennis Adhiswara, Rianti Cartwright, Rizky Hanggono",
+      watch: "Netflix",
+      poster: "images/Jomblo.jpg"
     },
     movie37: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Lovely Man",
+      year: "2011",
+      genre: "Drama",
+      synopsis: "Cahaya (Raihaanun) travels to Jakarta, Indonesia, to search for her father and discovers that he is a prostitute for men.",
+      director: "Teddy Soeriaatmadja",
+      starring: "Donny Damara, Rauhaanun, Yaya Unru",
+      watch: "Netflix",
+      poster: "images/Lovely Man.jpg"
     },
     movie38: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Selamat Pagi, Malam",
+      year: "2014",
+      genre: "Drama",
+      synopsis: "A tender, melancholic night is experienced through the eyes of three women as they struggle to find themselves in this ever-changing jungle of Jakarta.",
+      director: "Lucky Kuswandi",
+      starring: "Adinia Wirasti, Ina Panggabean, Dayu Wijanto",
+      watch: "Vidio.com",
+      poster: "images/Selamat_Pagi_Malam_Poster.jpg"
     },
     movie39: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "Mengejar Matahari",
+      year: "2004",
+      genre: "Drama",
+      synopsis: "Ardi, Damar, Apin, and Nino have been friends since childhood, even though they have very different family backgrounds. They live in an apartment complex. They have a common habit, namely Chasing the Sun which they do every afternoon, by running towards the setting sun. When they chase the sun, they seem to forget about the problems they are facing and feel free",
+      director: "Rudi Soedjarwo",
+      starring: "Winky Wiryawan, Fedi Nuril, Fauzi Baadiila, Udjo Project Pop",
+      watch: "Netflix",
+      poster: "images/Mengejar_Matahari.jpg"
     },
     movie40: {
-      title: "Movie...",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Sypnosis...",
-      director: "Director...",
-      starring: "Starring...",
-      watch: "Watch...",
-      poster: "images/Danadyaksa Naufal.jpg"
+      title: "The Photograph",
+      year: "2007",
+      genre: "Drama",
+      synopsis: "Sita is a karaoke bar hostess and a prostitute. When she is beaten up by a group of drunken men, she is saved by Johan. Johan is an old Chinese-Indonesian who is traveling as a photographer. Then Sita offers herself as Johan's servant without being paid. Sita doesn't know that their relationship will change their lives.",
+      director: "Nan Triveni Achnas ",
+      starring: "Lim Kay Tong, Shanty, Indy Barends",
+      watch: "Netflix",
+      poster: "images/The_photograph.jpg "
     },
     movie41: {
       title: "Movie...",
@@ -490,14 +490,14 @@ const movieData = {
       poster: "images/Baby Driver.jpeg"
     },
     movie50: {
-      title: "Oldboy",
-      year: "xxxx",
-      genre: "Genre...",
-      synopsis: "Dae-Su is an obnoxious drunk bailed from the police station yet again by a friend. However, he's abducted from the street and wakes up in a cell, where he remains for the next 15 years, drugged unconscious when human contact is unavoidable, otherwise with only the television as company. And then, suddenly released, he is invited to track down his jailor with a denouement that is simply stunning.",
-      director: "Park Chan-wook",
-      starring: "Choi Min-sikYoo, Ji-taeKang, Hye-jeong.",
+      title: "10 Things I Hate About You",
+      year: "1999",
+      genre: "Romantic Comedy",
+      synopsis: "A high-school boy, Cameron, cannot date Bianca until her anti-social older sister, Kat, has a boyfriend. So, Cameron pays a mysterious boy, Patrick, to charm Kat.",
+      director: "Gil Junger",
+      starring: "Heath LedgerJulia StilesJoseph Gordon-Levitt",
       watch: "KlikFilm",
-      poster: "images/Old Boy.jpeg"
+      poster: "images/10 Things I Hate About You.jpg"
     },
 };
   
