@@ -337,7 +337,7 @@ const movieData = {
       director: "Marlon Riggs",
       starring: "Angela Davis, Essex Hemphill, bell hooks",
       watch: "YouTube",
-      poster: "images/black isnt black.jpeg"
+      poster: "images/black isnt black.jpg"
     },
     movie35: {
       title: "Man with a Movie Camera",
@@ -347,7 +347,7 @@ const movieData = {
       director: "Dziga Vertov",
       starring: "Mikhail Kaufman, Elizaveta Svilova",
       watch: "YouTube",
-      poster: "images/The man with the camera.jpg"
+      poster: "images/The man with the camera.jpeg"
     },
     movie36: {
       title: "Jomblo",
@@ -487,7 +487,7 @@ const movieData = {
       director: "Edgar Wright",
       starring: "Ansel ElgortJon, BernthalJon Hamm",
       watch: "Apple TV, CatchPlay, Vidio.com",
-      poster: "images/Baby Driver.jpg"
+      poster: "images/Baby Driver.jpeg"
     },
     movie50: {
       title: "10 Things I Hate About You",
