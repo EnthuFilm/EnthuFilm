@@ -410,44 +410,44 @@ const movieData = {
       poster: "images/Fallen Angels.jpeg"
     },
     movie42: {
-      title: "About Time",
-      year: "2013",
-      genre: "Romance",
-      synopsis: "When Tim Lake (Domhnall Gleeson) is 21, his father (Bill Nighy) tells him a secret: The men in their family can travel through time. Although he can't change history, Tim resolves to improve his life by getting a girlfriend. He meets Mary (Rachel McAdams), falls in love and finally wins her heart via time-travel and a little cunning. However, as his unusual life progresses, Tim finds that his special ability can't shield him and those he loves from the problems of ordinary life.",
-      director: "Richard Curtis",
-      starring: "Domhnall Gleeson, Rachel McAdams",
-      watch: "Apple TV, Amazon Video  Domhnall Gleeson, Rachel McAdams",
-      poster: "images/About Time.jpeg"
+      title: "Stranger Things 4",
+      year: "2022",
+      genre: "Drama",
+      synopsis: "Set in March 1986, eight months after the Battle of Starcourt, this season follows multiple storylines. In Hawkins, a series of mysterious murders are linked to a powerful entity from the Upside Down, later called Vecna. Eleven struggles to regain her powers with the help of Dr. Brenner and Dr. Owens, while her friends search for her. Meanwhile, Joyce and Murray attempt to rescue Hopper from a Soviet prison, where they face dangerous creatures. The separate arcs converge in an intense finale, setting the stage for the series next chapter​.",
+      director: "Various",
+      starring: "Millie Bobby Brown (Eleven), Finn Wolfhard (Mike), Winona Ryder (Joyce), David Harbour (Hopper), Gaten Matarazzo (Dustin), Caleb McLaughlin (Lucas), Sadie Sink (Max), Natalia Dyer (Nancy), Charlie Heaton (Jonathan), Joe Keery (Steve), and Maya Hawke (Robin). Jamie Campbell Bower joins as Vecna",
+      watch: "Netflix",
+      poster: "images/Stranger Things 4.jpeg"
     },
     movie43: {
-      title: "Pirates of the Caribbean : Dead Man's Chest",
+      title: "The Fast And The Furious - Tokyo Drift",
       year: "2006",
       genre: "Action",
-      synopsis: "When ghostly pirate Davy Jones (Bill Nighy) comes to collect a blood debt, Capt. Jack Sparrow (Johnny Depp) must find a way to avoid his fate lest his soul be damned for all time. Nevertheless, the wily ghost manages to interrupt the wedding plans of Jack's friends Will Turner (Orlando Bloom) and Elizabeth Swann (Keira Knightley).",
-      director: "Gore Verbinski",
-      starring: "Johnny Depp, Orlando Bloom, Keira Knightley",
-      watch: "Disney Hostar, Hulu, Amazon Video",
-      poster: "images/Pirates of the Caribbean : Dead Man's Chest"
+      synopsis: "After getting into trouble with the law in the United States, Sean Boswell is sent to live with his father in Tokyo to avoid jail time. In this new environment, Sean discovers the underground world of drift racing, led by the Drift King (Takashi). With the help of his mentor Han, Sean learns the art of drifting and gains the skills to compete against Takashi, culminating in a high-stakes race down a dangerous mountain pass..",
+      director: "Justin Lin",
+      starring: "Lucas Black as Sean Boswell,Sung Kang as Han Lue,Bow Wow (Shad Moss) as Twinkie,Nathalie Kelley as Neela,Brian Tee as Takashi",
+      watch: "Amazon Prime Video, Apple TV, and Vudu",
+      poster: "images/The Fast And The Furious - Tokyo Drift.jpeg"
     },
     movie44: {
-      title: "The Girl with the Dragon Tatto",
-      year: "2011",
-      genre: "Thriller",
-      synopsis: "Disgraced financial reporter Mikael Blomkvist (Daniel Craig) finds a chance to redeem his honor after being hired by wealthy Swedish industrialist Henrik Vanger (Christopher Plummer) to solve the 40-year-old murder of Vanger's niece, Harriet. Vanger believes that Harriet was killed by a member of his own family. Eventually joining Blomkvist on his dangerous quest for the truth is Lisbeth Salander (Rooney Mara), an unusual but ingenious investigator whose fragile trust is not easily won.",
-      director: "David Fincher",
-      starring: "Daniel Craig, Rooney Mara",
-      watch: "Youtube, Amazon",
-      poster: "images/The Girl with the Dragon Tatto.jpeg"
+      title: "The Fast Saga",
+      year: "2021",
+      genre: "Action",
+      synopsis: "In F9: The Fast Saga, Dominic Toretto (Vin Diesel) faces his most personal challenge yet when his estranged brother Jakob (John Cena) teams up with the dangerous cyberterrorist Cipher (Charlize Theron). Jakob seeks revenge, leading to explosive confrontations and high-octane stunts. Dom must reunite his crew to protect his family and stop a global threat tied to a device called Project Aries..",
+      director: "Justin Lin",
+      starring: "Vin Diesel, Michelle Rodriguez, John Cena, Jordana Brewster, Tyrese Gibson, Ludacris, Charlize Theron, Helen Mirren.",
+      watch: "Amazon Prime Video",
+      poster: "images/The Fast Saga.jpeg"
     },
     movie45: {
-      title: "Overdrive",
-      year: "2017",
-      genre: "Action",
-      synopsis: "A notorious crime boss forces two legendary car thieves to steal a vehicle to win back their freedom. Joined by two beautiful women, the team has one week to pull off the daring heist or risk losing everything, including their lives.",
-      director: "Antonio Negret",
-      starring: "Scott Eastwood, Freddie Thorp, Ana de Armas",
-      watch: "Vidio, Amazon",
-      poster: "images/Overdrive.jpeg"
+      title: "The Lincoln Lawyer",
+      year: "2011",
+      genre: "Crime Drama",
+      synopsis: "Mickey Haller is a charismatic and street-smart criminal defense attorney who runs his practice out of the backseat of his Lincoln Town Car. When he lands a high-profile case defending a wealthy playboy accused of assault, Mickey sees it as a golden opportunity. However, as he digs deeper into the case, he uncovers dark secrets and dangerous twists that put his life and moral compass at risk..",
+      director: "Brad Furman",
+      starring: "Matthew McConaughey as Mickey Haller,Ryan Phillippe as Louis Roulet,Marisa Tomei as Maggie McPherson,William H. Macy as Frank Levin",
+      watch: "Netflix",
+      poster: "images/The Lincoln Lawyer.jpeg"
     },
     movie46: {
       title: "Get Out",
