@@ -337,6 +337,11 @@ p {
     margin-top: 15px;
 }
 
+.about-us-goals p {
+    font-size: 24px;
+    margin-top: 55px;
+}
+
 /* Footer */
 footer {
     padding: 20px;
