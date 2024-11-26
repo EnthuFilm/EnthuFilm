@@ -410,34 +410,34 @@ const movieData = {
       poster: "images/Fallen Angels.jpeg"
     },
     movie42: {
-      title: "Stranger Things",
-      year: "2022",
+      title: "Mysterious Skin",
+      year: "2004",
       genre: "Drama",
-      synopsis: "Following the events of Starcourt, a new evil emerges from the Upside Down, threatening Hawkins. Eleven, now powerless, struggles to regain her abilities, while Joyce and Murray embark on a perilous mission to rescue Hopper from a Soviet prison. As these storylines intertwine, the fate of Hawkins hangs in the balance.",
-      director: "Matt Duffer, Ross Duffer",
-      starring: "Millie Bobby Brown, Finn Wolfhard, Winona Ryder",
-      watch: "Netflix",
-      poster: "images/Stranger Things 4.jpeg"
+      synopsis: "Two pre-adolescent boys both experienced a strange event and later it affects their lives in different ways. One becomes a reckless, sexually adventurous prostitute, while the other retreats into a reclusive fantasy of alien abduction.",
+      director: "Gregg Araki",
+      starring: "Brady Corbet, Joseph Gordon-Levitt, Elisabeth Shue",
+      watch: "Netflix, Disney Hotstar, Apple TV",
+      poster: "images/Mysterious Skin.jpg"
     },
     movie43: {
-      title: "The Fast And The Furious - Tokyo Drift",
-      year: "2006",
-      genre: "Action",
+      title: "Radium Girls",
+      year: "2018",
+      genre: "Drama History",
       synopsis: "After getting into trouble with the law in the United States, Sean Boswell is sent to live with his father in Tokyo to avoid jail time. In this new environment, Sean discovers the underground world of drift racing, led by the Drift King (Takashi). With the help of his mentor Han, Sean learns the art of drifting and gains the skills to compete against Takashi, culminating in a high-stakes race down a dangerous mountain pass.",
-      director: "Justin Lin",
-      starring: "Lucas Black, Zachery Ty Bryan, Shad Moss",
-      watch: "Amazon Prime Video, Apple TV, Vudu",
-      poster: "images/The Fast And The Furious - Tokyo Drift.jpeg"
+      director: "Lydia Dean Pilcher, Ginny Molher",
+      starring: "Joey King, Abby Quinn, Cara Seymour",
+      watch: "Amazon Prime Video, Vudu",
+      poster: "images/Radium Girls.jpg"
     },
     movie44: {
-      title: "The Fast Saga",
-      year: "2021",
-      genre: "Action",
-      synopsis: "In F9: The Fast Saga, Dominic Toretto (Vin Diesel) faces his most personal challenge yet when his estranged brother Jakob (John Cena) teams up with the dangerous cyberterrorist Cipher (Charlize Theron). Jakob seeks revenge, leading to explosive confrontations and high-octane stunts. Dom must reunite his crew to protect his family and stop a global threat tied to a device called Project Aries.",
-      director: "Justin Lin",
-      starring: "Vin Diesel, Michelle Rodriguez, John Cena",
-      watch: "Amazon Prime Video",
-      poster: "images/The Fast Saga.jpeg"
+      title: "Father of The Bride",
+      year: "1991",
+      genre: "Romantic Comedy",
+      synopsis: "In this remake of the Spencer Tracy classic, George and Nina Banks are the parents of young wife-to-be Annie. George is a nervous father unready to face the fact that she is now a woman. The preparations for the extravagant wedding provide additional comic moments.",
+      director: "Charles Shyer",
+      starring: "Steve Martin, Diane Keaton, Martin Short",
+      watch: "Disney Hotstar, Apple TV, HULU",
+      poster: "images/Father Of The Bride.png"
     },
     movie45: {
       title: "The Lincoln Lawyer",
